@@ -40,4 +40,3 @@ function removeFirstKitten(){
   a.shift()
   return a;
 }
-
